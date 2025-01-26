@@ -1,6 +1,4 @@
-Here's the complete content for your README.md file:
 
-```markdown:/Users/cheencheen/Desktop/ch33chan/Isaac_SAC/README.md
 # SAC Implementation in NVIDIA Isaac Sim
 
 ## Prerequisites
